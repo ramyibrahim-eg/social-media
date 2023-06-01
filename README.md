@@ -1,4 +1,4 @@
-# Social Media
+# React Social Media
 ### Codes used
 #### HTML5, CSS, JS, React.js, react icons, swiper
 
